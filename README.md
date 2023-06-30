@@ -16,7 +16,7 @@ Deep Learning methods:
 ![image](https://github.com/tolitei/OCT-Image-Classification/assets/132046813/973d9bd1-d203-450f-a88e-2565dcb34ce2)
 ![image](https://github.com/tolitei/OCT-Image-Classification/assets/132046813/c6a57b5c-da60-4752-9afd-fee58447b788)
 
-References
+## References
 Data- https://data.mendeley.com/v1/datasets/compare/rscbjbr9sj/2/3
 
 
